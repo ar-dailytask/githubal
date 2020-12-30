@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     private String aman;
+    public int i=10;
 
 
     @Override
@@ -16,3 +17,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+//welcome
