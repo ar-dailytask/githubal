@@ -8,7 +8,8 @@ public class MainActivity extends AppCompatActivity {
     private String aman;
     public int i=10;
     public String name;
-    public boolean cake;
+    //public boolean cake;
+    public boolean add;
 
     public String getName() {
         return name;
