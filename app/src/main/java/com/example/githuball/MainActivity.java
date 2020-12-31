@@ -1,4 +1,4 @@
-package com.example.githuball;
+ package com.example.githuball;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
     private String aman;
     public int i=10;
     public String name;
+    public boolean cake;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
