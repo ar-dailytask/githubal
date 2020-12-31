@@ -10,6 +10,10 @@ public class MainActivity extends AppCompatActivity {
     public String name;
     public boolean cake;
 
+    public String getName() {
+        return name;
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
