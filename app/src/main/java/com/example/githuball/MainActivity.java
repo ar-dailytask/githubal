@@ -13,12 +13,12 @@ public class MainActivity extends AppCompatActivity {
     public String ashu;
 
     public String getName() {
-        return name;
+        return age;
     }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInrstanceState);
         setContentView(R.layout.activity_main);
 
 
