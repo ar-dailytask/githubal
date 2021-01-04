@@ -7,18 +7,19 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     private String aman;
     public int i=10;
-    public String age;
+    public String name;
     //public boolean cake;
     public boolean add;
-    public String ashu;
+
+    public String annu;
 
     public String getName() {
-        return age;
+        return name;
     }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInrstanceState);
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
 
