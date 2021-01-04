@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     public String name;
     //public boolean cake;
     public boolean add;
+    public String ashu;
 
     public String getName() {
         return name;
