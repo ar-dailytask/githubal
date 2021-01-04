@@ -7,7 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     private String aman;
     public int i=10;
-    public String name;
+    public String age;
     //public boolean cake;
     public boolean add;
     public String ashu;
