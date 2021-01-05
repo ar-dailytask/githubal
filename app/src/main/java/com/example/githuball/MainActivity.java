@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     //public boolean cake;
     public boolean add;
     public String tannu;
+    public String anshu;
     public String getName() {
         return name;
     }
